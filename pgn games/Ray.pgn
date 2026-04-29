@@ -1,0 +1,79 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.06.15"]
+[Round "-"]
+[White "RayRobson"]
+[Black "DrBlinditsky"]
+[Result "1/2-1/2"]
+[WhiteElo "2841"]
+[BlackElo "2907"]
+[TimeControl "180"]
+[EndTime "3:31:08 GMT+0000"]
+[Termination "Game drawn by repetition"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. f4 Bf5 6. c3 e6 7. Be3 g5 8. fxg5 Bg7
+9. Nf3 Nge7 10. Bd3 Nxe5 11. Nxe5 Bxe5 12. O-O Qc7 13. h3 O-O-O 14. Na3 a6 15.
+Nc2 Bxd3 16. Qxd3 Nf5 17. Rxf5 exf5 18. Qxf5+ Kb8 19. Rf1 Rhe8 20. Qxf7 Re7 21.
+Qf3 Rde8 22. Bd4 Bxd4+ 23. cxd4 Re2 24. Nb4 R8e3 25. Qf4 Qxf4 26. Rxf4 Rxb2 27.
+Nxd5 Rg3 28. Rf8+ Ka7 29. Nb6 Rbxg2+ 30. Kf1 Rg1+ 31. Ke2 R1g2+ 32. Kf1 Rg1+ 33.
+Ke2 R1g2+ 34. Kf1 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.29"]
+[Round "-"]
+[White "DrBlinditsky"]
+[Black "RayRobson"]
+[Result "1-0"]
+[WhiteElo "2925"]
+[BlackElo "2807"]
+[TimeControl "180"]
+[EndTime "5:16:43 GMT+0000"]
+[Termination "DrBlinditsky won by resignation"]
+
+1. d4 d5 2. Bf4 c5 3. e3 Nc6 4. Nc3 cxd4 5. exd4 a6 6. Nf3 Nf6 7. Ne5 Bd7 8. g3
+e6 9. Bg2 Be7 10. O-O O-O 11. Nxd7 Nxd7 12. Ne2 b5 13. c3 Nb6 14. Nc1 Bd6 15.
+Nd3 b4 16. Qg4 bxc3 17. bxc3 Kh8 18. h4 Na4 19. Rac1 Rc8 20. h5 h6 21. Rfe1 Na7
+22. Bxd6 Qxd6 23. Nf4 Nxc3 24. Kh2 Ncb5 25. Rcd1 Nc6 26. Ne2 Ne7 27. Nf4 Rc4 28.
+Bf1 Rxd4 29. Bxb5 Rxd1 30. Qxd1 axb5 31. Qd3 b4 32. Rc1 Rc8 33. Rxc8+ Nxc8 34.
+Qb5 Kg8 35. Qb7 Qf8 36. Nd3 d4 37. Nxb4 Nd6 38. Qc6 Nf5 39. Qc4 Qd8 40. a4 Qg5
+41. a5 Qxh5+ 42. Kg2 Qg4 43. Kf1 Qf3 44. Ke1 Qa3 45. a6 Qa1+ 46. Kd2 Nd6 47. Qc6
+Qb2+ 48. Nc2 Qa3 49. Nxa3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.29"]
+[Round "-"]
+[White "RayRobson"]
+[Black "DrBlinditsky"]
+[Result "1-0"]
+[WhiteElo "2858"]
+[BlackElo "2910"]
+[TimeControl "180"]
+[EndTime "5:20:17 GMT+0000"]
+[Termination "RayRobson won by resignation"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. Nf3 O-O 7. e5 Ng4 8. Bg1
+Nh6 9. Qe2 Bg4 10. O-O-O Nf5 11. Bf2 Bh6 12. g3 b5 13. h3 Bxf3 14. Qxf3 b4 15.
+Qxc6 bxc3 16. Qxc3 Rb8 17. Bg2 Qe8 18. Kb1 Qa4 19. g4 Ng7 20. g5 Ne6 21. gxh6
+Nxf4 22. Bf3 Rb6 23. d5 Ra6 24. a3 Qb5 25. exd6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.07.29"]
+[Round "-"]
+[White "DrBlinditsky"]
+[Black "RayRobson"]
+[Result "1-0"]
+[WhiteElo "2920"]
+[BlackElo "2828"]
+[TimeControl "180"]
+[EndTime "5:26:18 GMT+0000"]
+[Termination "DrBlinditsky won by resignation"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. g3 dxc4 6. Bg2 b5 7. O-O Bb7 8. e4
+Nbd7 9. e5 Nd5 10. Ng5 h6 11. Qh5 g6 12. Qh3 Be7 13. Nce4 Kf8 14. Nxe6+ fxe6 15.
+Bxh6+ Kf7 16. f4 Nf8 17. g4 Bc8 18. f5 exf5 19. gxf5 Bxf5 20. Rxf5+ gxf5 21.
+Qxf5+ Ke8 22. e6 Qb6 23. Bg7 Rh7 24. Bxf8 Qxd4+ 25. Kh1 Qh8 26. Nd6+ Kd8 27.
+Nf7+ Rxf7 28. exf7 Qxf8 29. Bxd5 cxd5 30. Qxd5+ Kc7 31. Re1 Rd8 32. Qe5+ Bd6 33.
+Qf5 Qh6 34. Qf2 Rh8 35. Re2 Qc1+ 36. Qg1 Rxh2+ 37. Rxh2 1-0

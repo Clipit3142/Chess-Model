@@ -1,0 +1,1047 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "viditchess"]
+[Black "SergeyKarjakin"]
+[Result "0-1"]
+[WhiteElo "3010"]
+[BlackElo "2987"]
+[TimeControl "180+1"]
+[EndTime "20:00:00 GMT+0000"]
+[Termination "SergeyKarjakin won on time"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 c5 8. d5
+exd5 9. exd5 O-O 10. Be2 Re8 11. Nf3 Bg4 12. O-O Nbd7 13. d6 Bf8 14. h3 Bh5 15.
+Nb5 Qb6 16. Nc7 Bxd6 17. Nxa8 Rxa8 18. Nh4 Bg6 19. Nf5 Bxf5 20. Rxf5 Re8 21. Qc2
+Ne4 22. Bf4 g6 23. Bxd6 gxf5 24. Bf4 Ne5 25. Rd1 Nc6 26. Bh5 Nd4 27. Qa4 Rd8 28.
+Kh2 Qxb2 29. Qxa7 Qf2 30. Bc7 f4 31. Bxd8 Qg3+ 32. Kg1 f3 33. Bxf3 Nxf3+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "viditchess"]
+[Result "1-0"]
+[WhiteElo "2996"]
+[BlackElo "3001"]
+[TimeControl "180+1"]
+[EndTime "20:07:20 GMT+0000"]
+[Termination "SergeyKarjakin won by resignation"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 Qb6 12. Nxc6 Bxc6 13. Bd3 Qc5 14. f5 b4
+15. Ne2 e5 16. Ng3 h5 17. h4 Bh6 18. Qe2 Qe3 19. Nxh5 Ke7 20. Qf1 Rhg8 21. Rh3
+Qc5 22. Qe2 a5 23. g4 a4 24. Nxf6 Kxf6 25. g5+ Bxg5 26. hxg5+ Rxg5 27. Bc4 Rag8
+28. Rh6+ Ke7 29. Rhxd6 Qxd6 30. Rxd6 Kxd6 31. a3 Rg1+ 32. Ka2 Rh1 33. Qd2+ Kc7
+34. Qxb4 Rgg1 35. Qe7+ Kb6 36. b4 Rg2 37. Qc5+ Kb7 38. Bd3 f6 39. b5 Bd7 40. Qe7
+Kc8 41. Kb2 Rgg1 42. Qf8+ Kc7 43. Qxf6 Rb1+ 44. Kc3 Ra1 45. Qxe5+ Kb6 46. Kb4
+Rhb1+ 47. Kxa4 Bc8 48. Qd6+ Kb7 49. Qc6+ Kb8 50. f6 Bb7 51. Qd6+ Ka7 52. f7 Rf1
+53. Qc5+ Kb8 54. f8=Q+ Rxf8 55. Qxf8+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "viditchess"]
+[Black "SergeyKarjakin"]
+[Result "0-1"]
+[WhiteElo "2993"]
+[BlackElo "3004"]
+[TimeControl "180+1"]
+[EndTime "20:15:12 GMT+0000"]
+[Termination "SergeyKarjakin won on time"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. Re1 Ba7 8. Bb3
+O-O 9. h3 h6 10. Nbd2 Re8 11. Nf1 Be6 12. Bc2 d5 13. Qe2 d4 14. Ng3 Bc5 15. Bd2
+Qd7 16. Nh4 Bf8 17. Qf3 Nh7 18. Nhf5 Kh8 19. h4 Rad8 20. h5 b5 21. a3 Ne7 22.
+cxd4 exd4 23. Bb4 Nxf5 24. Nxf5 c5 25. Ba5 Rc8 26. Rad1 Bxf5 27. exf5 Nf6 28.
+Bd2 Bd6 29. Rxe8+ Rxe8 30. Bb3 Kh7 31. g4 c4 32. dxc4 Re4 33. Kf1 Rxg4 34. Re1
+Rh4 35. Rc1 bxc4 36. Bxc4 Rxh5 37. Bxa6 Rh4 38. Bd3 Ng4 39. Qc6 Qd8 40. f6+ g6
+41. Kg1 Qxf6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "viditchess"]
+[Result "0-1"]
+[WhiteElo "2996"]
+[BlackElo "3001"]
+[TimeControl "180+1"]
+[EndTime "20:21:56 GMT+0000"]
+[Termination "viditchess won by checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 Qb6 12. Nxc6 Bxc6 13. f5 h5 14. fxe6
+fxe6 15. Bd3 b4 16. Ne2 Bh6 17. Qe1 Qc5 18. Rf1 Ke7 19. b3 Bb5 20. Qh4 Bg5 21.
+Qh3 Rhc8 22. Nd4 Qxd4 23. Bxb5 Qxe4 24. Bc4 Rxc4 25. bxc4 Rc8 26. Qxh5 Rxc4 27.
+Rf2 Rd4 28. Rdf1 Qh4 29. Qxh4 Rxh4 30. g3 Rh3 31. Kb2 Be3 32. Re2 Bc5 33. Kb3 e5
+34. Ka4 Ke6 35. g4 Ra3# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "viditchess"]
+[Black "SergeyKarjakin"]
+[Result "1-0"]
+[WhiteElo "3002"]
+[BlackElo "3193"]
+[TimeControl "60+1"]
+[EndTime "20:27:59 GMT+0000"]
+[Termination "viditchess won on time"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 Nbd7 7. cxd5 exd5 8.
+e3 c5 9. Bd3 Qa5 10. Bd2 O-O 11. Ne2 Re8 12. O-O Qc7 13. Ng3 Nf8 14. e4 cxd4 15.
+cxd4 dxe4 16. fxe4 Ng6 17. e5 Nd5 18. Ne4 Qb6 19. Qa4 Bd7 20. Qxd7 Qxd4+ 21. Nf2
+Nxe5 22. Qh3 g6 23. Rae1 Nxd3 24. Qxd3 Qxd3 25. Nxd3 f5 26. Rxe8+ Rxe8 27. Kf2
+Rd8 28. Bg5 Rd7 29. Rc1 Kg7 30. Ne5 Rd6 31. Rc8 h6 32. Bc1 Nf6 33. Rc7+ Kg8 34.
+Rxb7 Ne4+ 35. Ke2 g5 36. Rxa7 Rd5 37. Nd3 Nc3+ 38. Kd2 Ne4+ 39. Kc2 f4 40. Bb2
+Rd6 41. Rg7+ Kf8 42. Rc7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "viditchess"]
+[Result "1-0"]
+[WhiteElo "3208"]
+[BlackElo "2997"]
+[TimeControl "60+1"]
+[EndTime "20:31:28 GMT+0000"]
+[Termination "SergeyKarjakin won by checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 Qb6 12. Nxc6 Bxc6 13. f5 h5 14. fxe6
+fxe6 15. Qe1 Kf7 16. Bd3 Bh6 17. Rf1 Qe3 18. Ne2 Bxe4 19. Bxe4 Qxe4 20. Qf2 f5
+21. Rd3 d5 22. Nd4 Rae8 23. Re1 Qf4 24. Rf3 Qd6 25. a3 Bg7 26. c3 Bf6 27. g3
+Rhg8 28. h3 Be5 29. Qe2 Bxd4 30. cxd4 Rxg3 31. Rxf5+ exf5 32. Qxe8+ Kf6 33. Qxh5
+Qf4 34. Qh8+ Kg6 35. Re6+ Kf7 36. Qe8+ Kg7 37. Qe7+ Kg8 38. Qd8+ Kg7 39. Qf6+
+Kg8 40. Re8+ Kh7 41. Rh8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "viditchess"]
+[Black "SergeyKarjakin"]
+[Result "0-1"]
+[WhiteElo "2993"]
+[BlackElo "3221"]
+[TimeControl "60+1"]
+[EndTime "20:35:44 GMT+0000"]
+[Termination "SergeyKarjakin won on time"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 c5 8. d5
+exd5 9. exd5 O-O 10. Be2 Re8 11. Nf3 Bg4 12. O-O a6 13. Bg5 Nbd7 14. h3 Bxf3 15.
+Rxf3 Bd6 16. Qc2 h6 17. Bh4 Be5 18. Raf1 Qc7 19. Kh1 Re7 20. Bd3 Rae8 21. Bf5 g5
+22. Bf2 Bd6 23. Bd3 Nh5 24. Ne4 Ne5 25. Nxd6 Qxd6 26. Rf5 Nf4 27. Rxf4 gxf4 28.
+Bh4 f6 29. Bf5 Rg7 30. Be6+ Rxe6 31. dxe6 f3 32. gxf3 Qxe6 33. Kh2 Qd6 34. f4
+Nc6 35. Qe4 Qd2+ 36. Rf2 Qd1 37. Qd5+ Qxd5 38. cxd5 Nd4 39. Bxf6 Rd7 40. Rg2+
+Kf8 41. d6 Rxd6 42. Be5 Rd5 43. Bg7+ Kf7 44. Bxh6 Nf5 45. Bg5 b5 46. h4 c4 47.
+h5 a5 48. h6 Nxh6 49. Kg3 Nf5+ 50. Kf3 Rd3+ 51. Ke4 Ke6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "viditchess"]
+[Result "0-1"]
+[WhiteElo "3179"]
+[BlackElo "3006"]
+[TimeControl "60+1"]
+[EndTime "20:38:49 GMT+0000"]
+[Termination "viditchess won by resignation"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. c3 b5 7. Bc2 Bb7 8. Re1
+c4 9. a4 e6 10. axb5 axb5 11. Rxa8 Qxa8 12. Na3 Bxe4 13. Bxe4 Nxe4 14. Nxb5 Qb7
+15. Nbd4 Ndc5 16. Rf1 d5 17. Ne1 Qa6 18. f3 Nd6 19. Qc2 Be7 20. b4 Nd7 21. d3
+O-O 22. dxc4 Qxc4 23. Qd3 Qc7 24. Nec2 Ne5 25. Qd2 Rc8 26. f4 Nec4 27. Qe1 Ne4
+28. f5 e5 29. f6 Bxf6 30. Nf5 Ncd6 31. Nce3 Nxf5 32. Rxf5 Qxc3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "viditchess"]
+[Black "SergeyKarjakin"]
+[Result "1/2-1/2"]
+[WhiteElo "3010"]
+[BlackElo "3167"]
+[TimeControl "60+1"]
+[EndTime "20:44:12 GMT+0000"]
+[Termination "Game drawn by repetition"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2 b6
+9. O-O Bb7 10. a4 Qe7 11. a5 Rab8 12. Bb2 Rfd8 13. Rfd1 h6 14. Bf1 Bb4 15. axb6
+axb6 16. Ra7 Qe8 17. Rda1 c5 18. Na2 dxc4 19. Nxb4 cxb3 20. Qxb3 Bxf3 21. gxf3
+cxb4 22. Qxb4 Ra8 23. Bb5 Rxa7 24. Rxa7 Qf8 25. Ba3 Qxb4 26. Bxb4 Nd5 27. Bd6
+N7f6 28. Be5 Nc3 29. Ba6 b5 30. Rb7 Ra8 31. Bxb5 Nxb5 32. Rxb5 Nd5 33. e4 Ne7
+34. d5 exd5 35. exd5 f6 36. Bc7 Ra1+ 37. Kg2 Rd1 38. d6 Ng6 39. h3 Nf4+ 40. Kh2
+Kf7 41. Rb7 Ke6 42. Bb8 g5 43. Re7+ Kf5 44. d7 Ng6 45. Rf7 Ne5 46. Rh7 Nxd7 47.
+Bg3 Kg6 48. Re7 Rd5 49. Kg2 h5 50. f4 gxf4 51. Bxf4 Ne5 52. Bg3 Nd3 53. Kf3 Nc5
+54. Ke3 Rf5 55. h4 Rd5 56. Ra7 Rd3+ 57. Ke2 Rd5 58. Kf3 Rf5+ 59. Kg2 Rd5 60. Ra5
+Rf5 61. f3 Ne6 62. Ra6 Nf4+ 63. Kh2 Ne2 64. Kg2 Nxg3 65. Kxg3 Re5 66. Kf4 Rd5
+67. Rb6 Rf5+ 68. Kg3 Ra5 69. Rc6 Ra4 70. Rb6 Ra3 71. Rd6 Ra4 72. Rb6 Ra3 73. Rd6
+Ra4 74. Rd3 Ra5 75. Rd1 Ra4 76. Rb1 Ra3 77. Rb5 Ra4 78. Kf2 Ra3 79. Kg3 Ra4 80.
+Rc5 Ra3 81. Rd5 Ra4 82. Rb5 Ra3 83. Rc5 Ra4 84. f4 Ra3+ 85. Kg2 Ra2+ 86. Kf3
+Ra3+ 87. Kg2 Ra2+ 88. Kg3 Ra3+ 89. Kg2 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "Polish_fighter3000"]
+[Black "SergeyKarjakin"]
+[Result "1/2-1/2"]
+[WhiteElo "3027"]
+[BlackElo "2997"]
+[TimeControl "300+1"]
+[EndTime "21:10:29 GMT+0000"]
+[Termination "Game drawn by repetition"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. Re1 h6
+9. Nbd2 O-O 10. Nf1 Re8 11. Ng3 Be6 12. Bxe6 Rxe6 13. b4 d5 14. Qc2 dxe4 15.
+dxe4 Ne7 16. Bb2 c5 17. Rad1 Qb6 18. a5 Qc6 19. Qb3 Ng6 20. Bc1 Ng4 21. Rf1 Rc8
+22. h3 Nf6 23. Rfe1 Nf4 24. Qa2 c4 25. Be3 Bxe3 26. Rxe3 g6 27. Qc2 Kg7 28. Ne2
+Nd3 29. Nc1 Nxe4 30. Nxd3 cxd3 31. Rdxd3 Rc7 32. Qb3 f5 33. Nd2 Nxd2 34. Rxd2 e4
+35. Rc2 Rd6 36. c4 Rd1+ 37. Kh2 Qd6+ 38. g3 Qd4 39. Qc3 Qxc3 40. Rexc3 Kf6 41.
+c5 Rc6 42. Rb3 Rd5 43. b5 Rcxc5 44. Rxc5 Rxc5 45. bxa6 bxa6 46. Rb6+ Kg5 47.
+Rxa6 Rc2 48. Kg1 Ra2 49. Ra8 h5 50. Ra6 h4 51. gxh4+ Kh5 52. Kf1 Kxh4 53. Rxg6
+Rxa5 54. f4 Kxh3 55. Rg5 Kh4 56. Kf2 Ra3 57. Rxf5 Kg4 58. Rf8 Rf3+ 59. Ke2 Rxf4
+60. Rg8+ Kf5 61. Ke3 Rf3+ 62. Ke2 Ra3 63. Rf8+ Kg4 64. Rg8+ Kf4 65. Rf8+ Kg4 66.
+Rg8+ Kf4 67. Rf8+ Kg4 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "Polish_fighter3000"]
+[Result "1-0"]
+[WhiteElo "3006"]
+[BlackElo "3018"]
+[TimeControl "300+1"]
+[EndTime "21:22:55 GMT+0000"]
+[Termination "SergeyKarjakin won by resignation"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 g6 7. Be2 Bg7 8. O-O
+O-O 9. Be3 Nc6 10. Qd2 Ng4 11. Bxg4 Bxg4 12. f3 Be6 13. Rfd1 Nxd4 14. Bxd4 Bxd4+
+15. Qxd4 Rc8 16. Qa7 Qc7 17. Rd2 Qc5+ 18. Qxc5 Rxc5 19. Nd1 Rfc8 20. Ne3 f5 21.
+exf5 gxf5 22. Rd4 Kg7 23. Rad1 h5 24. Kf2 Kf6 25. R1d2 Ra5 26. b3 Rc3 27. Rb4
+Re5 28. Rd3 Rc7 29. g3 b5 30. axb5 axb5 31. Rf4 Rxe3 32. Kxe3 Rxc2 33. h3 Rg2
+34. g4 hxg4 35. hxg4 Ke5 36. gxf5 Bxf5 37. Rc3 Rg8 38. Rb4 Rb8 39. Rc7 Kf6 40.
+Ra7 e5 41. Ra6 Ke7 42. Rh4 Rc8 43. Rh6 Rc7 44. Rhxd6 Rc3+ 45. Kf2 Rxb3 46. Rd5
+Bc8 47. Rxe5+ Kd7 48. Rb6 b4 49. Reb5 Rc3 50. Rxb4 Kc7 51. Rb3 Rc2+ 52. Kg3 Bd7
+53. R6b4 Bc6 54. Rd4 Rc1 55. f4 Rg1+ 56. Kh4 Bd7 57. Rc3+ Kd8 58. Rcd3 Rg7 59.
+Rxd7+ Rxd7 60. Rxd7+ Kxd7 61. Kg5 Ke7 62. Kg6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "Polish_fighter3000"]
+[Black "SergeyKarjakin"]
+[Result "1/2-1/2"]
+[WhiteElo "3018"]
+[BlackElo "3006"]
+[TimeControl "300+1"]
+[EndTime "21:34:11 GMT+0000"]
+[Termination "Game drawn - insufficient material"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Re1 Be7 12. Ne4 Be6 13. g3 Rd8 14. c3 c5 15.
+Nfg5 Rh6 16. Nxe6 Rxe6 17. Bf4 a5 18. a4 Rb6 19. Re2 Rd3 20. Rae1 Re6 21. Kg2 b6
+22. Kh2 Kd7 23. Ng5 Bxg5 24. Bxg5 Kc6 25. g4 hxg4 26. hxg4 Nh6 27. Bxh6 Rxh6+
+28. Kg2 Kd5 29. Re3 Rd2 30. R1e2 Rxe2 31. Rxe2 g5 32. Rd2+ Kxe5 33. Rd7 f5 34.
+gxf5 Kxf5 35. Rxc7 Rd6 36. Rb7 Ke4 37. Kg3 Kd3 38. Kg4 Kc2 39. Kxg5 Kxb2 40. f4
+Kxc3 41. f5 Kb4 42. f6 Kxa4 43. f7 Rd8 44. Rxb6 c4 45. Kf6 c3 46. Ke7 Rh8 47.
+f8=Q Rxf8 48. Kxf8 c2 49. Rc6 Kb3 50. Rb6+ Kc3 51. Rc6+ Kb2 52. Rb6+ Kc1 53. Ra6
+a4 54. Rxa4 Kb2 55. Rc4 c1=Q 56. Rxc1 Kxc1 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "Polish_fighter3000"]
+[Result "0-1"]
+[WhiteElo "2998"]
+[BlackElo "3026"]
+[TimeControl "180+1"]
+[EndTime "21:43:38 GMT+0000"]
+[Termination "Polish_fighter3000 won on time"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nd7 8.
+Qd2 O-O 9. O-O-O Nf6 10. h4 c5 11. Bg5 Be6 12. a3 d5 13. Bxf6 Bxf6 14. Ng5 c4
+15. Be2 Qb6 16. Qe3 Qxe3+ 17. fxe3 Bxg5 18. hxg5 f6 19. gxf6 Rxf6 20. Bf3 h6 21.
+a4 Re8 22. e4 dxe4 23. Bxe4 b6 24. Rd6 Kf7 25. Bf3 Re7 26. Kd2 Rd7 27. Rd4 Rc7
+28. Re1 g6 29. Rd6 Bf5 30. Rd8 h5 31. Ree8 Kg7 32. Rh8 Re6 33. Rhg8+ Kf6 34. Rd4
+Re5 35. Be2 Rec5 36. Bf3 Ra5 37. b3 cxb3 38. cxb3 Re5 39. c4 Ree7 40. Kc3 Rcd7
+41. Rxd7 Rxd7 42. Kb4 a5+ 43. Kb5 Rd3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "Polish_fighter3000"]
+[Black "SergeyKarjakin"]
+[Result "1/2-1/2"]
+[WhiteElo "3025"]
+[BlackElo "2999"]
+[TimeControl "180+1"]
+[EndTime "21:49:09 GMT+0000"]
+[Termination "Game drawn by agreement"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 Nbd7 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Bd3 Nxc3 11. bxc3 c5 12. O-O b6 13. a4 Bb7 14. Qe2 e5 15.
+Ba6 Bxf3 16. Qxf3 exd4 17. cxd4 cxd4 18. exd4 Nf6 19. Rfd1 Rad8 20. Rac1 Rd6 21.
+Re1 Qd7 22. Bb5 Qd8 23. Qb7 a5 24. Rc7 Rxd4 25. Qxb6 Rd1 26. Rxd1 Qxd1+ 27. Bf1
+Qxa4 28. Ra7 Qb4 29. Qxa5 Qxa5 30. Rxa5 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "Polish_fighter3000"]
+[Result "1-0"]
+[WhiteElo "3008"]
+[BlackElo "3016"]
+[TimeControl "180+1"]
+[EndTime "21:57:53 GMT+0000"]
+[Termination "SergeyKarjakin won on time"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O 8.
+O-O d5 9. Bd2 Bxc3 10. Bxc3 Nxe4 11. Bxe4 dxe4 12. Qh5 Qd5 13. Qh4 f6 14. Qf4
+Qf5 15. Qxc7 Qg6 16. Kh1 Bf5 17. Qxc6 e3 18. fxe3 Bxc2 19. Rf3 Be4 20. Qe6+ Kh8
+21. Rg3 Rae8 22. Rxg6 Rxe6 23. Rg4 Rd8 24. Re1 h6 25. Rf4 Kh7 26. Kg1 f5 27. Rf2
+Rd3 28. a3 Red6 29. Rfe2 g5 30. Kf2 Kg6 31. Rc1 Rc6 32. Ree1 a6 33. Ba5 Rxc1 34.
+Rxc1 Rd6 35. Bc3 Kf7 36. Bd4 Rc6 37. Bc5 Ke6 38. b4 Rc7 39. g3 h5 40. Ke2 g4 41.
+Kd2 h4 42. gxh4 Rh7 43. Bb6 Rxh4 44. Bc7 Rh7 45. Rc3 Rd7+ 46. Kc1 Bf3 47. Bf4
+Rd1+ 48. Kc2 Rg1 49. Kb3 Rb1+ 50. Ka4 Ra1 51. Ka5 Be2 52. Kb6 Ra2 53. Ka5 Kd5
+54. Kb6 Ke6 55. Rc6+ Kd5 56. Rc5+ Ke6 57. Ra5 Bb5 58. a4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "Polish_fighter3000"]
+[Black "SergeyKarjakin"]
+[Result "1-0"]
+[WhiteElo "3024"]
+[BlackElo "3000"]
+[TimeControl "180+1"]
+[EndTime "22:01:49 GMT+0000"]
+[Termination "Polish_fighter3000 won by resignation"]
+
+1. Nf3 d5 2. c4 e6 3. e3 Nf6 4. Nc3 Be7 5. b3 O-O 6. Bb2 b6 7. Rg1 c5 8. g4 Nc6
+9. g5 Ne4 10. Nxe4 dxe4 11. Ne5 Nxe5 12. Bxe5 Bxg5 13. Qg4 Bf6 14. Qxg7+ Bxg7
+15. Rxg7+ Kh8 16. Rxf7+ Kg8 17. Rg7+ Kh8 18. Rxa7+ Kg8 19. Rg7+ Kh8 20. Rg6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "Polish_fighter3000"]
+[Result "1/2-1/2"]
+[WhiteElo "3001"]
+[BlackElo "3023"]
+[TimeControl "180+1"]
+[EndTime "22:09:55 GMT+0000"]
+[Termination "Game drawn by agreement"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. Be2 Be7 14. e5 dxe5
+15. Bxf6 Bxf6 16. Bh5+ g6 17. Ne4 O-O 18. O-O Qe7 19. Bf3 Qa7+ 20. Kh1 Be7 21.
+Qc3 Rb8 22. h3 Rxb1 23. Rxb1 Qc7 24. Qe3 c5 25. Qb3 Rd8 26. Kh2 Kg7 27. a4 Rd4
+28. c3 Rd8 29. Qb6 Qxb6 30. Rxb6 Rd7 31. Rxe6 Rc7 32. Rb6 c4 33. Kg3 Ba3 34. Rb8
+Bf5 35. Kf2 Bd7 36. Ra8 Bb2 37. Rxa6 Bf5 38. Ke2 Bxe4 39. Bxe4 Bxc3 40. a5 Bd4
+41. Rc6 Rxc6 42. Bxc6 Kf6 43. Bd5 c3 44. Kd3 h6 45. a6 Ke7 46. a7 Bxa7 47. Kxc3
+Kf6 48. Be4 Kg5 49. Kd3 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "Polish_fighter3000"]
+[Black "SergeyKarjakin"]
+[Result "1-0"]
+[WhiteElo "3093"]
+[BlackElo "3137"]
+[TimeControl "60+1"]
+[EndTime "22:15:58 GMT+0000"]
+[Termination "Polish_fighter3000 won on time"]
+
+1. Nf3 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nb6 5. d4 g6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Bg4 9. O-O-O Nc6 10. Be2 Bxf3 11. gxf3 e6 12. h4 Qe7 13. h5 Rfd8 14. hxg6 hxg6
+15. d5 exd5 16. exd5 Nb4 17. Bg5 Qc5 18. Bxd8 Rxd8 19. Kb1 N6xd5 20. Ne4 Qa5 21.
+Bc4 Nc3+ 22. bxc3 Rxd2 23. Rxd2 Nc6 24. Rd7 Ne5 25. Rd8+ Bf8 26. Bb3 Kg7 27. Rd5
+Qa6 28. Rxe5 Qd3+ 29. Bc2 Qxf3 30. Rd1 Ba3 31. Red5 c6 32. Rd7 b5 33. Ng5 Qxc3
+34. Rxf7+ Kh6 35. Rh1+ Kxg5 36. Rg1+ Kh6 37. Rxg6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "Polish_fighter3000"]
+[Result "0-1"]
+[WhiteElo "3112"]
+[BlackElo "3102"]
+[TimeControl "60+1"]
+[EndTime "22:19:05 GMT+0000"]
+[Termination "Polish_fighter3000 won on time"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 g6 7. Be3 Nc6 8. f3
+Nxd4 9. Bxd4 Bh6 10. Qe2 O-O 11. O-O e5 12. Bf2 Be6 13. Bc4 Qc7 14. Bb3 Rac8 15.
+Rad1 Bg5 16. Rd3 Rfd8 17. Rfd1 b5 18. h4 Bf4 19. g3 Bh6 20. Be3 Bxe3+ 21. Qxe3
+b4 22. Ne2 Bxb3 23. cxb3 Rd7 24. g4 d5 25. exd5 Rcd8 26. d6 Rxd6 27. Qxe5 Qb6+
+28. Rd4 Re6 29. Qh2 Rxe2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "Polish_fighter3000"]
+[Black "SergeyKarjakin"]
+[Result "1-0"]
+[WhiteElo "3110"]
+[BlackElo "3090"]
+[TimeControl "60+1"]
+[EndTime "22:22:44 GMT+0000"]
+[Termination "Polish_fighter3000 won on time"]
+
+1. Nf3 d5 2. c4 e6 3. e3 Nf6 4. Nc3 Be7 5. b3 O-O 6. Bb2 c5 7. cxd5 Nxd5 8. h4
+b6 9. Qb1 Nf6 10. Ng5 Nbd7 11. Bd3 h6 12. Bh7+ Kh8 13. Ne2 e5 14. Be4 Rb8 15.
+Bd5 Qe8 16. Ng3 Bb7 17. Bxb7 Rxb7 18. Qf5 Kg8 19. Qf3 Qa8 20. Nf5 Re8 21. Qg3
+Nh5 22. Qg4 Ndf6 23. Qh3 Rbb8 24. O-O-O Ne4 25. Qf3 Nhf6 26. Bxe5 hxg5 27. hxg5
+Nxg5 28. Qg3 Qe4 29. Qh2 Nfh7 30. Nxe7+ Rxe7 31. Bxb8 c4 32. Kb2 cxb3 33. axb3
+Rd7 34. d4 Qf5 35. Rd2 Ne4 36. Rc2 Rd8 37. f3 Nef6 38. e4 Qd7 39. Be5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "Polish_fighter3000"]
+[Result "0-1"]
+[WhiteElo "3071"]
+[BlackElo "3118"]
+[TimeControl "60+1"]
+[EndTime "22:26:42 GMT+0000"]
+[Termination "Polish_fighter3000 won on time"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Bg7 10. Qd2 Nc6 11. Nb3 Nge5 12. f3 b5 13. Bf2 Rb8 14. Nd4 b4 15. Nd5
+e6 16. Nxc6 Nxc6 17. O-O-O exd5 18. Qxd5 Ne7 19. Qxd6 Qxd6 20. Rxd6 O-O 21. Bc4
+a5 22. Rhd1 a4 23. Bc5 Rb7 24. b3 axb3 25. Bxb3 Be5 26. Rxh6 Kg7 27. Ra6 Rh8 28.
+h3 Ng6 29. Bd4 Bxd4 30. Rxd4 Nf4 31. Rd2 Be6 32. Ra5 Bxb3 33. axb3 Ne6 34. Kb2
+Rc8 35. g3 Rc3 36. Rf2 Rbc7 37. Rd5 Re3 38. h4 gxh4 39. gxh4 Rcc3 40. f4 Rxe4
+41. f5 Nf4 42. Rd6 Rg3 43. Rh2 Rg4 44. h5 Re5 45. h6+ Kh7 46. Rf6 Re7 47. Rd6
+Ng2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "Polish_fighter3000"]
+[Black "SergeyKarjakin"]
+[Result "1-0"]
+[WhiteElo "3125"]
+[BlackElo "3055"]
+[TimeControl "60+1"]
+[EndTime "22:30:06 GMT+0000"]
+[Termination "Polish_fighter3000 won on time"]
+
+1. Nf3 d5 2. c4 d4 3. b4 Bg4 4. Qb3 c6 5. g3 Nf6 6. Bg2 Bxf3 7. Qxf3 e5 8. b5
+Bc5 9. O-O O-O 10. d3 h6 11. Nd2 Qe7 12. a4 a5 13. h4 Bb4 14. g4 Nfd7 15. Qh3
+Nc5 16. Ra2 Nbd7 17. bxc6 bxc6 18. Bxc6 Ra6 19. Bg2 Nb6 20. g5 Nbxa4 21. Nb1 h5
+22. Bf3 g6 23. Kg2 Rb6 24. Bd5 Nc3 25. Nxc3 Bxc3 26. Ba3 Bb4 27. Bc1 Kg7 28. f4
+exf4 29. Bxf4 f5 30. Qf3 Bc3 31. Rc1 Kh7 32. Rcc2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.25"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "Polish_fighter3000"]
+[Result "0-1"]
+[WhiteElo "3041"]
+[BlackElo "3131"]
+[TimeControl "60+1"]
+[EndTime "22:34:20 GMT+0000"]
+[Termination "Polish_fighter3000 won on time"]
+
+1. b3 Nf6 2. Bb2 e6 3. e3 b6 4. Nf3 Bb7 5. c4 c5 6. Nc3 Nc6 7. Be2 Be7 8. O-O
+O-O 9. d4 cxd4 10. Nxd4 d5 11. cxd5 Nxd4 12. Qxd4 Bxd5 13. Nxd5 Qxd5 14. Bf3
+Qxd4 15. Bxd4 Rac8 16. Rfd1 Rfd8 17. Rac1 Ba3 18. Rxc8 Rxc8 19. Kf1 Kf8 20. Ke2
+Ne8 21. Be4 g6 22. Bd3 h5 23. e4 Bc5 24. Bb2 Ke7 25. f4 Nd6 26. a3 a5 27. Rc1
+Rd8 28. g3 Rd7 29. h3 Rd8 30. g4 hxg4 31. hxg4 Ne8 32. Rc4 Nd6 33. Rc2 Ne8 34.
+g5 Bd4 35. Bc1 Nd6 36. b4 axb4 37. axb4 Rc8 38. Rxc8 Nxc8 39. Ba6 Nd6 40. Kd3
+Bf2 41. Bb2 Ne8 42. Be5 Be1 43. b5 Bf2 44. Bb7 Bc5 45. Bc6 Nd6 46. Bf6+ Kf8 47.
+Bd8 Ne8 48. Ke2 Nd6 49. Kf3 Nc4 50. Bc7 Bd6 51. Bd8 Be7 52. Bxe7+ Kxe7 53. e5
+Nd2+ 54. Ke3 Nb3 0-1
+
+[Event "*** Titled Tuesday Blitz"]
+[Site "Chess.com"]
+[Date "2020.10.27"]
+[Round "1"]
+[White "SergeyKarjakin"]
+[Black "bazar-wokzal"]
+[Result "1-0"]
+[WhiteElo "3002"]
+[BlackElo "2487"]
+[TimeControl "180+1"]
+[EndTime "17:06:30 GMT+0000"]
+[Termination "SergeyKarjakin won on time"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Nf3 Qe7 6. d4 e4 7. Ne5 Bd7 8. Bxc6
+bxc6 9. c4 f6 10. Nxd7 Qxd7 11. Nc3 Bb4 12. O-O Bxc3 13. Bxc3 Ne7 14. Bb4 O-O
+15. cxd5 cxd5 16. Rc1 Rf7 17. Bxe7 Rxe7 18. Rc5 c6 19. Qc2 Re6 20. Rc1 Rc8 21.
+b4 a6 22. g3 f5 23. Qa4 Rh6 24. h4 Qb7 25. Kf1 g5 26. hxg5 Rh1+ 27. Kg2 Rxc1 28.
+Rxc1 Kg7 29. Rh1 Rb8 30. Rh6 Qb5 31. Qd1 Rh8 32. Qh5 Qxb4 33. Rxc6 Qe7 34. Qh6+
+1-0
+
+[Event "*** Titled Tuesday Blitz"]
+[Site "Chess.com"]
+[Date "2020.10.27"]
+[Round "2"]
+[White "MomchilPetkov"]
+[Black "SergeyKarjakin"]
+[Result "0-1"]
+[WhiteElo "2627"]
+[BlackElo "3004"]
+[TimeControl "180+1"]
+[EndTime "17:18:05 GMT+0000"]
+[Termination "SergeyKarjakin won by resignation"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 e6 4. Nd2 Bd6 5. Bg3 b6 6. Ngf3 Bb7 7. Bd3 c5 8. c3
+Nc6 9. O-O Bxg3 10. hxg3 Qc7 11. dxc5 bxc5 12. e4 O-O 13. Qe2 h6 14. Rfe1 a5 15.
+Rac1 a4 16. Bb1 Ba6 17. Qe3 Qb6 18. e5 Nd7 19. b3 axb3 20. axb3 c4 21. bxc4 Qxe3
+22. Rxe3 dxc4 23. Be4 Rac8 24. Bxc6 Rxc6 25. Rb1 Nc5 26. Nd4 Rcc8 27. Ne4 Nxe4
+28. Rxe4 Rb8 29. Ree1 Bb7 30. f3 Bd5 31. Kf2 h5 32. Ke3 Kh7 33. Kd2 g5 34. Kc2
+Rxb1 35. Rxb1 Ra8 36. Kb2 Kg6 37. Ra1 Rxa1 38. Kxa1 h4 39. gxh4 gxh4 40. Kb2 Kg5
+41. Kc2 Kf4 42. Kd2 Kg3 43. Ke3 Kxg2 44. Ne2 h3 45. Nf4+ Kg3 46. Ne2+ Kh4 47.
+Kf2 h2 48. Kg2 Bxf3+ 0-1
+
+[Event "*** Titled Tuesday Blitz"]
+[Site "Chess.com"]
+[Date "2020.10.27"]
+[Round "3"]
+[White "SergeyKarjakin"]
+[Black "XDPS"]
+[Result "1-0"]
+[WhiteElo "3007"]
+[BlackElo "2739"]
+[TimeControl "180+1"]
+[EndTime "17:29:05 GMT+0000"]
+[Termination "SergeyKarjakin won on time"]
+
+1. d4 d5 2. Bg5 Nf6 3. Nd2 c6 4. Ngf3 Bg4 5. e3 Nbd7 6. c4 Qa5 7. cxd5 cxd5 8.
+a3 Ne4 9. Bf4 g5 10. Bg3 Bg7 11. Be2 Nxd2 12. Nxd2 Bxe2 13. Qxe2 Rc8 14. Qd3 h6
+15. h4 Qb6 16. b4 a6 17. O-O e6 18. Rac1 O-O 19. Nb3 f5 20. hxg5 hxg5 21. Nc5
+Nxc5 22. bxc5 Qc6 23. Rb1 f4 24. Rb6 Qd7 25. exf4 gxf4 26. Bh4 Rf5 27. Re1 Re8
+28. f3 Qf7 29. Bf2 e5 30. dxe5 Rfxe5 31. Rxe5 Rxe5 32. c6 bxc6 33. Rxc6 Re8 34.
+Qxa6 d4 35. Qd3 Qa2 36. Rc1 Qd5 37. Rd1 Rd8 38. a4 Qe5 39. Ra1 Qa5 40. Be1 Qd5
+41. Bd2 Re8 42. a5 Ra8 43. a6 Qc5 44. Qe4 d3+ 45. Kf1 Rd8 46. Rc1 Qh5 47. Qe6+
+Kh8 48. Qh3 Qxh3 49. gxh3 Ra8 50. Rc6 Kg8 51. Bxf4 Kf7 52. Ke1 1-0
+
+[Event "*** Titled Tuesday Blitz"]
+[Site "Chess.com"]
+[Date "2020.10.27"]
+[Round "4"]
+[White "Gordima"]
+[Black "SergeyKarjakin"]
+[Result "0-1"]
+[WhiteElo "2811"]
+[BlackElo "3011"]
+[TimeControl "180+1"]
+[EndTime "17:39:00 GMT+0000"]
+[Termination "SergeyKarjakin won on time"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8.
+Bxc4 c5 9. Nf3 Qc7 10. Ba2 b6 11. O-O Bb7 12. h3 Nc6 13. Bb2 Rfd8 14. Qe2 Na5
+15. Rac1 h6 16. c4 cxd4 17. exd4 Qf4 18. Qe5 Qxe5 19. Nxe5 Rac8 20. Rfd1 Rc7 21.
+Bc3 Nc6 22. Nxc6 Bxc6 23. d5 Rcd7 24. Re1 exd5 25. Bxf6 gxf6 26. cxd5 Bxd5 27.
+Bxd5 Rxd5 28. Rc7 R8d7 29. Re8+ Kg7 30. Rcc8 Kg6 31. Rg8+ Kf5 32. Rh8 Rd3 33.
+Rxh6 Rxa3 34. Rc6 Ke5 35. Rcxf6 b5 36. Rc6 Rb7 37. Rh5+ Kd4 38. Rd6+ Kc3 39.
+Rc6+ Kb2 40. Re5 Rc3 41. Re2+ Kb3 42. Ra6 b4 43. Rea2 Rcc7 44. Ra1 Kb2 45. R6a2+
+Kc3 46. Rc1+ Kb3 47. Rca1 Rc1+ 48. Rxc1 Kxa2 49. h4 b3 0-1
+
+[Event "*** Titled Tuesday Blitz"]
+[Site "Chess.com"]
+[Date "2020.10.27"]
+[Round "5"]
+[White "SergeyKarjakin"]
+[Black "Aleksey_Sorokin"]
+[Result "1-0"]
+[WhiteElo "3015"]
+[BlackElo "2842"]
+[TimeControl "180+1"]
+[EndTime "17:56:12 GMT+0000"]
+[Termination "SergeyKarjakin won by resignation"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 h6 4. Bh4 d5 5. e3 c5 6. c3 Nc6 7. Ngf3 cxd4 8. exd4
+g5 9. Bg3 Nh5 10. Be5 f6 11. Ng1 Ng7 12. Bg3 f5 13. f4 Bd6 14. Qf3 g4 15. Qf2
+Bd7 16. Bh4 Be7 17. Bxe7 Qxe7 18. Ne2 O-O-O 19. Nc1 Ne8 20. Bb5 Ne5 21. dxe5
+Bxb5 22. Qxa7 d4 23. cxd4 Qh4+ 24. g3 Qh3 25. Ncb3 Qg2 26. O-O-O Nc7 27. Na5 Ba6
+28. Kb1 Qd5 29. Ndb3 Nb5 30. Qb6 Kb8 31. Nc5 Nc7 32. Rc1 Rc8 33. Rhd1 Ka8 34.
+Rc3 h5 35. Ra3 Nb5 36. Ra4 h4 37. Naxb7 1-0
+
+[Event "*** Titled Tuesday Blitz"]
+[Site "Chess.com"]
+[Date "2020.10.27"]
+[Round "6"]
+[White "Jumbo"]
+[Black "SergeyKarjakin"]
+[Result "1/2-1/2"]
+[WhiteElo "2868"]
+[BlackElo "3012"]
+[TimeControl "180+1"]
+[EndTime "18:00:53 GMT+0000"]
+[Termination "Game drawn by repetition"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8. Qc2
+c6 9. Rd1 b6 10. Bf4 Ba6 11. b3 Rc8 12. Nc3 Nh5 13. Bc1 Nhf6 14. Bf4 Nh5 15. Bc1
+Nhf6 16. Bf4 1/2-1/2
+
+[Event "*** Titled Tuesday Blitz"]
+[Site "Chess.com"]
+[Date "2020.10.27"]
+[Round "7"]
+[White "SergeyKarjakin"]
+[Black "GOGIEFF"]
+[Result "0-1"]
+[WhiteElo "3001"]
+[BlackElo "2907"]
+[TimeControl "180+1"]
+[EndTime "18:18:04 GMT+0000"]
+[Termination "GOGIEFF won on time"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 h6 4. Bh4 d6 5. e4 Nbd7 6. c3 b6 7. Bd3 Bb7 8. f4 Be7
+9. Ngf3 Nh5 10. Bxe7 Qxe7 11. g3 e5 12. fxe5 dxe5 13. d5 Nhf6 14. Qe2 O-O 15. c4
+c6 16. O-O Nc5 17. Rac1 a5 18. Bb1 cxd5 19. exd5 e4 20. Nd4 Rfe8 21. Rf4 Rad8
+22. Rcf1 Qe5 23. Qe3 Rxd5 24. cxd5 Nxd5 25. Nc4 Nxe3 26. Nxe5 Nxf1 27. Nxf7 Nd2
+28. Nd6 Rd8 29. N4b5 Nxb1 30. Nxb7 Nxb7 0-1
+
+[Event "*** Titled Tuesday Blitz"]
+[Site "Chess.com"]
+[Date "2020.10.27"]
+[Round "8"]
+[White "SantoBlue"]
+[Black "SergeyKarjakin"]
+[Result "0-1"]
+[WhiteElo "2836"]
+[BlackElo "3006"]
+[TimeControl "180+1"]
+[EndTime "18:30:20 GMT+0000"]
+[Termination "SergeyKarjakin won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. d3 Nd7 8.
+Be3 O-O 9. Nc3 c5 10. a4 Re8 11. h3 Bd6 12. Nd2 Nb8 13. Nc4 Nc6 14. Nxd6 cxd6
+15. f4 exf4 16. Bxf4 Be6 17. Qh5 Qd7 18. Rf2 f6 19. Raf1 Bf7 20. Qf3 Ne5 21. Qg3
+Kh8 22. a5 Rad8 23. b3 Qc7 24. Bd2 Nc6 25. Qh4 Be6 26. g4 Nd4 27. g5 fxg5 28.
+Bxg5 Rc8 29. Qg3 Qxa5 30. Bd2 Qc7 31. Bf4 Qa5 32. Bd2 Qd8 33. h4 Qd7 34. h5 Bh3
+35. Rf7 Qg4 36. Qxg4 Bxg4 37. h6 gxh6 38. Bxh6 Rg8 39. Kh2 Rg6 40. Bc1 Rcg8 41.
+Nd5 Be6 42. R7f2 Rg4 43. Kh1 Rh4+ 44. Rh2 Rxh2+ 45. Kxh2 Bxd5 46. exd5 Re8 47.
+Rf6 Kg7 48. Rxd6 Re2+ 49. Kh3 Rxc2 50. Bf4 Rc3 51. Be5+ Kf7 52. Rd7+ Kg6 53. d6
+Kf5 54. Re7 Rxd3+ 55. Kg2 Nc6 0-1
+
+[Event "*** Titled Tuesday Blitz"]
+[Site "Chess.com"]
+[Date "2020.10.27"]
+[Round "9"]
+[White "SergeyKarjakin"]
+[Black "Oleksandr_Bortnyk"]
+[Result "1-0"]
+[WhiteElo "3012"]
+[BlackElo "2909"]
+[TimeControl "180+1"]
+[EndTime "18:45:30 GMT+0000"]
+[Termination "SergeyKarjakin won by checkmate"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 Bf5 7. O-O Nd7 8. Nf3
+e6 9. c4 N5f6 10. Nc3 Bd6 11. Nh4 Bg6 12. g3 O-O 13. Be3 Re8 14. Qb3 Qc7 15.
+Nxg6 hxg6 16. Rfd1 a5 17. Rac1 Bb4 18. Na4 Bf8 19. d5 e5 20. Nb6 Rad8 21. c5
+cxd5 22. Nxd5 Nxd5 23. Rxd5 Nf6 24. Rxd8 Rxd8 25. c6 bxc6 26. Bb6 Qd7 27. Bxd8
+Qxd8 28. Rxc6 Qd2 29. Bc4 e4 30. Bxf7+ Kh7 31. Qc2 Qd4 32. Kg2 Bb4 33. a3 Be1
+34. Qe2 Bd2 35. Rc2 e3 36. Rc4 Qd7 37. Rh4+ Nh5 38. Qxh5+ gxh5 39. Rxh5# 1-0
+
+[Event "*** Titled Tuesday Blitz"]
+[Site "Chess.com"]
+[Date "2020.10.27"]
+[Round "10"]
+[White "Zhigalko_Sergei"]
+[Black "SergeyKarjakin"]
+[Result "0-1"]
+[WhiteElo "2914"]
+[BlackElo "3018"]
+[TimeControl "180+1"]
+[EndTime "18:56:34 GMT+0000"]
+[Termination "SergeyKarjakin won on time"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d3 d6 10. a5 Be6 11. Nbd2 h6 12. c3 Bxb3 13. Qxb3 Qd7 14. Nc4 Rab8 15. Qc2
+Rfe8 16. Bd2 Rb5 17. d4 bxc3 18. bxc3 exd4 19. cxd4 d5 20. Nce5 Nxe5 21. Nxe5
+Qc8 22. f3 c5 23. Rac1 Qa8 24. Qa2 cxd4 25. exd5 Rxd5 26. Qc4 Bd6 27. Nd3 Rd8
+28. Rb1 Rc8 29. Qa2 Rh5 30. h3 Nd5 31. Qb3 Nc3 32. Ra1 Rb5 0-1
+
+[Event "*** Titled Tuesday Blitz"]
+[Site "Chess.com"]
+[Date "2020.10.27"]
+[Round "11"]
+[White "SergeyKarjakin"]
+[Black "crescentmoon2411"]
+[Result "1-0"]
+[WhiteElo "3023"]
+[BlackElo "2886"]
+[TimeControl "180+1"]
+[EndTime "19:07:01 GMT+0000"]
+[Termination "SergeyKarjakin won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Nbd2 a6 8. a4 O-O
+9. Re1 Re8 10. Nf1 Ba7 11. Ng3 Be6 12. h3 Bxc4 13. dxc4 Ne7 14. Nh4 Qd7 15. a5
+Rad8 16. Qf3 Qe6 17. Nhf5 Ng6 18. Be3 Bxe3 19. Nxe3 Nf4 20. Rad1 g6 21. h4 h5
+22. Ngf1 Ng4 23. Rd2 Rb8 24. Kh1 Nxe3 25. fxe3 Qf6 26. Qf2 b6 27. axb6 Rxb6 28.
+exf4 exf4 29. Nh2 Reb8 30. Nf3 a5 31. Kh2 a4 32. e5 dxe5 33. Rxe5 Kg7 34. c5 Rb3
+35. Qe2 a3 36. bxa3 Rxc3 37. Rd3 Rbb3 38. Rxc3 Rxc3 39. a4 Ra3 40. Qe4 Re3 41.
+Qd4 Rxf3 42. gxf3 Qxh4+ 43. Kg2 Qg3+ 44. Kf1 Qxf3+ 45. Ke1 Kh6 46. Re4 Kg5 47.
+Rxf4 Qh1+ 48. Kd2 Qb1 49. Qf6+ Kh6 50. Qh8+ Kg5 51. Qf6+ Kh6 52. Qd4 Qa2+ 53.
+Kc3 Qa3+ 54. Kc2 Qa2+ 55. Kd3 f5 56. Rf2 Qb3+ 57. Ke2 Kg5 58. Rg2+ Kh6 59. Qh8#
+1-0
+
+[Event "Bullet Open Championship 1"]
+[Site "Chess.com"]
+[Date "2020.12.19"]
+[Round "1"]
+[White "SergeyKarjakin"]
+[Black "Patzel09"]
+[Result "1-0"]
+[WhiteElo "3043"]
+[BlackElo "2512"]
+[TimeControl "60"]
+[EndTime "18:02:21 GMT+0000"]
+[Termination "SergeyKarjakin won on time"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. Nc3 Bf5 5. Qe2 Nc6 6. Qb5 Qc8 7. Bc4 Bg6 8.
+Bb3 a6 9. Qc4 Ne5 10. Qd4 Qf5 11. h4 Rd8 12. Qa7 h6 13. Nh3 Qc8 14. Nf4 Bf5 15.
+Ba4+ c6 16. Qc5 Nfd7 17. Qe3 b5 18. Bb3 e6 19. Nxe4 c5 20. c3 c4 21. Bc2 Bc5 22.
+Nxc5 Bxc2 23. Nxd7 Nxd7 24. d4 cxd3 25. O-O O-O 26. Nh5 Qc5 27. Qf3 Qf5 28. Qxf5
+exf5 29. Nf4 g6 30. Bd2 Ne5 31. Rfe1 Nc4 32. Be3 d2 33. Bxd2 Nxd2 34. h5 Be4 35.
+hxg6 fxg6 36. f3 Bd3 37. Nxg6 Rf6 38. Ne7+ Kf7 39. Rad1 Bc2 40. Nc6 Ba4 41. Rxd2
+Kg6 42. Re7 Rxc6 43. Rxd8 Rf6 44. Ree8 Kh5 45. Rg8 Rg6 46. Rdf8 Rg5 47. Rxf5 1-0
+
+[Event "Bullet Open Championship 1"]
+[Site "Chess.com"]
+[Date "2020.12.19"]
+[Round "2"]
+[White "Shahinyan_ChessMood"]
+[Black "SergeyKarjakin"]
+[Result "0-1"]
+[WhiteElo "2717"]
+[BlackElo "3049"]
+[TimeControl "60"]
+[EndTime "18:04:30 GMT+0000"]
+[Termination "SergeyKarjakin won by resignation"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nf6 4. Bg2 g6 5. d3 Bg7 6. Be3 Nc6 7. h3 O-O 8. Qd2 Rb8
+9. Bh6 b5 10. Bxg7 Kxg7 11. Nge2 b4 12. Nd1 a5 13. Ne3 a4 14. O-O e5 15. f4 a3
+16. b3 Nd4 17. f5 gxf5 18. Nxf5+ Bxf5 19. exf5 Kh8 20. g4 Rg8 21. Rae1 Nd7 22.
+Kh2 Qh4 23. Nxd4 cxd4 24. Qe2 Nf6 25. Kg1 h5 26. Qf2 Qxf2+ 27. Rxf2 hxg4 28. Kf1
+gxh3 29. Bxh3 Rg5 30. Ke2 Kg7 31. Bg2 Rh8 32. Bc6 Nh5 33. Kd2 Nf4 34. Be4 Kf6
+35. Bd5 Nxd5 0-1
+
+[Event "Bullet Open Championship 1"]
+[Site "Chess.com"]
+[Date "2020.12.19"]
+[Round "3"]
+[White "SergeyKarjakin"]
+[Black "Didici"]
+[Result "1-0"]
+[WhiteElo "3057"]
+[BlackElo "2801"]
+[TimeControl "60"]
+[EndTime "18:06:35 GMT+0000"]
+[Termination "SergeyKarjakin won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 a6 4. O-O Bc5 5. c3 Nf6 6. d4 Bd6 7. dxe5 Nxe5 8.
+Nxe5 Bxe5 9. f4 Bd6 10. e5 Bc5+ 11. Kh1 d5 12. exf6 dxc4 13. Qe2+ Kf8 14. fxg7+
+Kxg7 15. Qe5+ Qf6 16. Qxc5 1-0
+
+[Event "Bullet Open Championship 1"]
+[Site "Chess.com"]
+[Date "2020.12.19"]
+[Round "4"]
+[White "SergeyKarjakin"]
+[Black "Oleksandr_Bortnyk"]
+[Result "0-1"]
+[WhiteElo "3049"]
+[BlackElo "3301"]
+[TimeControl "60"]
+[EndTime "18:10:50 GMT+0000"]
+[Termination "Oleksandr_Bortnyk won by resignation"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 Bf5 7. O-O Nd7 8. Nf3
+e6 9. c4 N5f6 10. Nc3 Bd6 11. Nh4 Bg6 12. c5 Bc7 13. f4 O-O 14. f5 exf5 15. Nxf5
+b6 16. b4 a5 17. b5 bxc5 18. bxc6 cxd4 19. Nb5 Bb6 20. Kh1 Ne5 21. Bg5 d3 22.
+Nxg7 dxe2 23. Qxe2 Neg4 24. Bh6 Nxh6 25. c7 Qd3 26. Qe5 Nfg4 27. Qf4 Kxg7 28.
+Nd6 Bxc7 29. Rad1 Bxd6 30. Qg5 Nf2+ 31. Kg1 Nxd1 32. Qf6+ Kg8 33. h3 Qe3+ 34.
+Kh1 Qg3 0-1
+
+[Event "Bullet Open Championship 1"]
+[Site "Chess.com"]
+[Date "2020.12.19"]
+[Round "5"]
+[White "Twitch_ElhamBlitz05"]
+[Black "SergeyKarjakin"]
+[Result "1-0"]
+[WhiteElo "2822"]
+[BlackElo "3017"]
+[TimeControl "60"]
+[EndTime "18:14:25 GMT+0000"]
+[Termination "Twitch_ElhamBlitz05 won on time"]
+
+1. g3 c5 2. Bg2 Nc6 3. e3 g6 4. Ne2 Bg7 5. O-O e6 6. d4 cxd4 7. exd4 d5 8. c3
+Nge7 9. Nd2 O-O 10. Nf3 b6 11. Nf4 Ba6 12. Nd3 Rc8 13. Re1 Na5 14. Nfe5 Nf5 15.
+Bf4 Nd6 16. Qc1 Bxd3 17. Nxd3 Nac4 18. Bh6 Bxh6 19. Qxh6 a5 20. Rab1 Nf5 21. Qf4
+Qf6 22. g4 g5 23. Qf3 Nd2 24. Qe2 Nxb1 25. gxf5 Nxc3 26. bxc3 Qxf5 27. Qd2 Rc7
+28. Ne5 Rfc8 29. Re3 f6 30. Bh3 Qb1+ 31. Re1 Qb5 32. Bxe6+ Kg7 33. Bxc8 Rxc8 34.
+Nf3 Qd7 35. Nxg5 Qg4+ 36. Kh1 fxg5 37. Qe3 Rf8 38. Rg1 Qf3+ 39. Qxf3 Rxf3 40.
+Rxg5+ Kf6 41. Rxd5 Rxc3 42. Rd6+ Kf5 43. Rxb6 Ke4 44. Kg2 Rc2 45. Rh6 Rxa2 46.
+Rxh7 a4 47. Ra7 a3 48. Ra4 Ra1 49. h4 a2 50. h5 Kf5 51. d5 Kg5 52. d6 Kxh5 53.
+d7 Rd1 54. Rxa2 Rxd7 55. Ra5+ Kg6 56. Ra4 Rg7 57. Ra3 Kf5+ 58. Kf3 Rc7 59. Ra5+
+Kf6 60. Ra3 Kf7 61. Re3 Rb7 62. Kg4 Rb6 63. f4 Rg6+ 64. Kf3 Rf6 65. Rd3 Rh6 66.
+Kg4 Rg6+ 67. Kf5 Rf6+ 68. Kg4 Rg6+ 69. Kf3 Rf6 70. Rd4 Rg6 71. f5 Rh6 72. Kf4
+Rh3 73. Ke5 Rh4 74. Rxh4 1-0
+
+[Event "Bullet Open Championship 1"]
+[Site "Chess.com"]
+[Date "2020.12.19"]
+[Round "6"]
+[White "SergeyKarjakin"]
+[Black "CoachJKane"]
+[Result "1/2-1/2"]
+[WhiteElo "3003"]
+[BlackElo "2713"]
+[TimeControl "60"]
+[EndTime "18:17:21 GMT+0000"]
+[Termination "Game drawn - timeout vs insufficient material"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 6. Bb3 Rf8 7. O-O d6 8.
+d3 Bg4 9. Qe1 h6 10. h3 hxg5 11. hxg4 Qd7 12. Qe2 Nd4 13. Qd1 Nxg4 14. Bxg5+ Ke8
+15. Nd2 Nxf2 16. Qh5+ Rf7 17. Qxf7+ Qxf7 18. Bxf7+ Kxf7 19. Rxf2+ Kg6 20. Be3
+Nxc2 21. Bxc5 Nxa1 22. Be3 Nc2 23. Nc4 Nb4 24. a3 Nxd3 25. Rf3 b5 26. Rg3+ Kf7
+27. Nd2 Nxb2 28. Rf3+ Ke6 29. Nb3 Nc4 30. Rg3 a5 31. Bc1 a4 32. Na1 c5 33. Rxg7
+b4 34. axb4 cxb4 35. Rb7 b3 36. Kf1 Rg8 37. Kf2 Rg4 38. Nxb3 Rg8 39. Nd2 Rf8+
+40. Ke2 Na5 41. Ra7 Nc6 42. Rxa4 Nd4+ 43. Rxd4 exd4 44. Nf3 Rg8 45. Kf2 d3 46.
+Bb2 Rc8 47. Nd4+ Ke5 48. Ke3 Kf6 49. Kxd3 Kg5 50. Nf5 Kg4 51. Ne3+ Kg3 52. Nd5
+Kxg2 53. Ne7 Rd8 54. Nc6 Re8 55. Ba3 Rxe4 56. Bxd6 Kh3 57. Kxe4 Kg2 58. Kd5 Kh1
+59. Be5 Kg2 60. Nd4 Kh3 61. Nf5 Kg2 1/2-1/2
+
+[Event "Bullet Open Championship 1"]
+[Site "Chess.com"]
+[Date "2020.12.19"]
+[Round "7"]
+[White "SergeyKarjakin"]
+[Black "jlandaw"]
+[Result "1-0"]
+[WhiteElo "3010"]
+[BlackElo "2736"]
+[TimeControl "60"]
+[EndTime "18:19:51 GMT+0000"]
+[Termination "SergeyKarjakin won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. O-O d3 7. e5 d5 8. Bxd3
+Ne4 9. b4 Bb6 10. b5 Ne7 11. Nbd2 Nxd2 12. Qxd2 Bf5 13. Re1 O-O 14. Ba3 Bxd3 15.
+Qxd3 Re8 16. Ng5 Ng6 17. Qf5 Rf8 18. Bxf8 Qxf8 19. e6 fxe6 20. Qxe6+ Kh8 21.
+Nf7+ Kg8 22. Ne5+ Kh8 23. Nxg6+ hxg6 24. Qh3+ Kg8 25. Qe6+ Kh8 26. Re2 Qf6 27.
+Qh3+ Kg8 28. Rae1 Rf8 29. Qg3 d4 30. cxd4 Bxd4 31. Qb3+ Kh8 32. Qg3 Bc5 33. Rf1
+Bd6 34. Re4 Kg8 35. Qb3+ Kh8 36. Qh3+ Kg8 37. Rh4 g5 38. Rh8+ Kf7 39. Qb3+ Kg6
+40. Qd3+ Kf7 41. Qd5+ Qe6 42. Rxf8+ Bxf8 43. Qxe6+ Kxe6 44. Re1+ Kd7 45. Re3 Bd6
+46. Rf3 g4 47. Rf7+ Ke6 48. Rxg7 a6 49. Rxg4 axb5 50. Rg5 Kd7 51. h4 Kc6 52. h5
+b4 53. h6 Be7 54. Rg6+ Kb5 55. h7 c5 56. h8=Q b6 57. Qe8+ Ka5 58. Qxe7 b5 59.
+Qa7# 1-0
+
+[Event "Bullet Open Championship 1"]
+[Site "Chess.com"]
+[Date "2020.12.19"]
+[Round "8"]
+[White "Boryboy"]
+[Black "SergeyKarjakin"]
+[Result "1-0"]
+[WhiteElo "2885"]
+[BlackElo "2986"]
+[TimeControl "60"]
+[EndTime "18:23:18 GMT+0000"]
+[Termination "Boryboy won on time"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 d6 4. O-O Nf6 5. d4 O-O 6. a4 Nbd7 7. a5 a6 8. Nc3 e5
+9. e4 Re8 10. Re1 c6 11. h3 Qc7 12. Bg5 exd4 13. Nxd4 Ne5 14. b3 c5 15. Nde2 Be6
+16. Nf4 Nc6 17. Bxf6 Bxf6 18. Ncd5 Bxd5 19. Nxd5 Qd8 20. c3 Bg7 21. Qd2 Nxa5 22.
+Rab1 Nc6 23. Qc2 b5 24. Rbd1 b4 25. cxb4 Nxb4 26. Nxb4 cxb4 27. e5 Rc8 28. Qd3
+Rxe5 29. Rxe5 Bxe5 30. Qxa6 Rc2 31. Bd5 Qf6 32. Qa7 Kg7 33. Qe3 Rc3 34. Qe4 Bxg3
+35. fxg3 Rxg3+ 36. Kh1 Rxh3+ 37. Kg2 Rh5 38. Qd4 Rg5+ 39. Kh2 Re5 40. Bg2 h5 41.
+Qxb4 Re2 42. Qd4 Re5 43. b4 h4 44. Kh1 Qe6 45. b5 h3 46. Bd5 Qf5 47. b6 Kh7 48.
+b7 Re8 49. Qh4+ Kg7 50. Qd4+ f6 51. Bc6 Qh5 52. Bxe8 Qe2 53. Qd2 Qe4+ 54. Kh2
+Qxe8 55. Qf2 Qe5+ 56. Kg1 Qb5 57. Kh1 Qxb7+ 58. Kh2 Qb5 59. Rf1 Qg5 60. Qg3 1-0
+
+[Event "Bullet Open Championship 1"]
+[Site "Chess.com"]
+[Date "2020.12.19"]
+[Round "9"]
+[White "SergeyKarjakin"]
+[Black "DragonB70"]
+[Result "1-0"]
+[WhiteElo "2993"]
+[BlackElo "2731"]
+[TimeControl "60"]
+[EndTime "18:25:26 GMT+0000"]
+[Termination "SergeyKarjakin won by resignation"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Rg1 b5 7. g4 Bb7 8. g5
+Nxe4 9. Nxe4 Bxe4 10. Qe2 Bb7 11. Bf4 Nd7 12. O-O-O g6 13. Bxd6 Bg7 14. Bh3 O-O
+15. Bxe7 Re8 16. Bxd8 Rxe2 17. Nxe2 Rxd8 18. Rxd7 Re8 19. Rxb7 Rxe2 20. Rd1 Be5
+21. Rd8+ Kg7 22. Rdd7 Rxf2 23. Be6 Bf4+ 24. Kd1 Bxg5 25. Rxf7+ Rxf7 26. Rxf7+
+Kh6 27. Ra7 Be3 28. Rxa6 b4 29. Bd7 Bf4 30. Ke2 Bxh2 31. Kd3 Be5 32. Ra4 Bxb2
+33. Rxb4 Bf6 34. a4 Be7 35. Rb5 Bd8 36. a5 Bxa5 37. Rxa5 1-0
+
+[Event "Bullet Open Championship 1"]
+[Site "Chess.com"]
+[Date "2020.12.19"]
+[Round "10"]
+[White "aa175"]
+[Black "SergeyKarjakin"]
+[Result "1-0"]
+[WhiteElo "2621"]
+[BlackElo "2962"]
+[TimeControl "60"]
+[EndTime "18:28:17 GMT+0000"]
+[Termination "aa175 won by resignation"]
+
+1. d4 c6 2. Nf3 d5 3. Bf4 Nf6 4. e3 Bg4 5. Nbd2 e6 6. h3 Bxf3 7. Nxf3 Bd6 8.
+Bxd6 Qxd6 9. Ne5 O-O 10. c3 Nbd7 11. f4 Ne4 12. Bd3 f5 13. O-O Nxe5 14. fxe5 Qe7
+15. Bxe4 dxe4 16. Qe2 Rad8 17. Qf2 g5 18. Rad1 Kh8 19. Qg3 Rf7 20. Kh2 Rdf8 21.
+c4 h5 22. h4 gxh4 23. Qg6 Rg8 24. Qxh5+ Rh7 25. Qe2 h3 26. g3 Rxg3 27. Kxg3 Rg7+
+28. Kh2 Rg2+ 29. Qxg2 hxg2 30. Kxg2 Qg5+ 31. Kf2 Qh4+ 32. Ke2 Qh2+ 33. Rf2 Qh5+
+34. Kd2 f4 35. Rxf4 Qh2+ 36. Kc1 Qe2 37. Rh1+ Kg7 38. Rg1+ Kh6 39. Rh4+ 1-0
+
+[Event "Bullet Open Championship 1"]
+[Site "Chess.com"]
+[Date "2020.12.19"]
+[Round "11"]
+[White "Tooweak2slow03"]
+[Black "SergeyKarjakin"]
+[Result "0-1"]
+[WhiteElo "2721"]
+[BlackElo "2969"]
+[TimeControl "60"]
+[EndTime "18:36:44 GMT+0000"]
+[Termination "SergeyKarjakin won by resignation"]
+
+1. e4 g6 2. Nf3 Bg7 3. Nc3 d6 4. d4 Nf6 5. Be2 O-O 6. h3 a6 7. a4 Nc6 8. Be3 e5
+9. Qd2 exd4 10. Nxd4 Re8 11. Bf3 Ne5 12. O-O c5 13. Nde2 Nxf3+ 14. gxf3 Bxh3 15.
+Rfd1 Nh5 16. Ng3 Qh4 17. Qxd6 Be5 18. Nf5 gxf5 19. Qh6 Kh8 20. Bg5 Rg8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.11"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "g3god"]
+[Result "1-0"]
+[WhiteElo "2835"]
+[BlackElo "2557"]
+[TimeControl "900+10"]
+[EndTime "15:32:33 GMT+0000"]
+[Termination "SergeyKarjakin won by resignation"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nf3 Be7 8. g4 h6
+9. Rg1 b5 10. g5 hxg5 11. Nxg5 Qa5 12. Bd2 b4 13. Ne2 Nc6 14. Ng3 Qc7 15. Bc4
+Nd8 16. Qe2 a5 17. O-O-O Bd7 18. Kb1 Rc8 19. b3 g6 20. f4 Ne6 21. fxe5 dxe5 22.
+Rgf1 Rh4 23. Nxe6 Bxe6 24. Bxe6 fxe6 25. Bg5 Rf4 26. Bxf4 exf4 27. e5 Nd5 28.
+Rxd5 exd5 29. Rxf4 Qc5 30. Qd3 Rc6 31. Ne2 Re6 32. Nd4 Rxe5 33. Qxg6+ Kd7 34.
+Qg4+ Kd6 35. Rf1 Re4 36. Nf5+ Kc7 37. Qg3+ Kb7 38. h4 Bf8 39. Qd3 Re5 40. h5 Qb6
+41. h6 Qg6 42. h7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.12"]
+[Round "-"]
+[White "viditchess"]
+[Black "SergeyKarjakin"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2792"]
+[TimeControl "900+10"]
+[EndTime "14:42:41 GMT+0000"]
+[Termination "Game drawn by repetition"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bg5 Nbd7 11. Nc3 h6 12. Bxf6 Nxf6 13. Rfd1 Qd6 14. e3 Rfd8
+15. Qe2 Qb4 16. a5 Rac8 17. e4 Bf8 18. h4 Rb8 19. Rd2 Ra8 20. Rdd1 Rab8 21. Rd2
+Ra8 22. Rdd1 Rab8 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.13"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "TRadjabov"]
+[Result "1/2-1/2"]
+[WhiteElo "2788"]
+[BlackElo "2778"]
+[TimeControl "900+10"]
+[EndTime "14:58:20 GMT+0000"]
+[Termination "Game drawn by repetition"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Bd3
+Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O Qc7 13. g3 Ba6 14. Bxa6 Rxa6 15. Qe2
+Rfa8 16. b5 cxb5 17. Nxd5 exd5 18. Qxe7 Rc8 19. Rab1 bxc5 20. Rxb5 Re6 21. Qg5
+h6 22. Qf5 Rf6 23. Qb1 Rb6 24. dxc5 Rxb5 25. Qxb5 Rb8 26. Qa4 Nxc5 27. Qd4 Qd6
+28. Rd1 Ne4 29. Ne5 Qc7 30. Qxd5 Qc2 31. Qxf7+ Kh8 32. Rf1 Nd2 33. Re1 Rb1 34.
+Ng6+ Kh7 35. Nf8+ Kh8 36. Ng6+ Kh7 37. Nf8+ Kh8 38. Ng6+ 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.14"]
+[Round "-"]
+[White "SergeyKarjakin"]
+[Black "Chefshouse"]
+[Result "1/2-1/2"]
+[WhiteElo "2776"]
+[BlackElo "2733"]
+[TimeControl "900+10"]
+[EndTime "14:42:59 GMT+0000"]
+[Termination "Game drawn by repetition"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
+dxc4 9. Bxc4 c5 10. O-O cxd4 11. Nxd4 Bd7 12. Qb3 Nc6 13. Nxc6 Bxc3 14. Qxb7
+Bxc6 15. Qxc6 Bxb2 16. Rc2 Rfc8 17. Qe4 Rab8 18. g3 g6 19. Rb1 Qe5 20. Qf3 Qf6
+21. Qe4 Qe5 22. Qf3 Qf6 23. Qe4 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.15"]
+[Round "-"]
+[White "Sethu0025"]
+[Black "SergeyKarjakin"]
+[Result "1/2-1/2"]
+[WhiteElo "2531"]
+[BlackElo "2735"]
+[TimeControl "900+10"]
+[EndTime "15:03:57 GMT+0000"]
+[Termination "Game drawn by repetition"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. Nf3 Qa5+ 10. Bd2 Qxc5 11. e3 Nxd2 12. Nxd2 dxc4 13. Bxc4 O-O 14. O-O
+Ne5 15. b4 Qc7 16. Rac1 Nxc4 17. Qxc4 Qxc4 18. Nxc4 Rd8 19. Na5 Kf8 20. Rc3 b6
+21. Nc6 Rd6 22. Nxa7 Ba6 23. b5 Rxa7 24. bxa6 b5 25. Rb1 Rdxa6 26. Rxb5 Rxa3 27.
+Rxa3 Rxa3 28. g3 g6 29. Kg2 Kg7 30. h4 h5 31. Rc5 Ra2 32. Rb5 Ra3 33. Rc5 Ra2
+34. Rb5 Ra3 1/2-1/2
